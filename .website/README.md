@@ -1,4 +1,7 @@
 ---
+genres:
+  - shooter
+  - action
 directors_cut: https://herebefrogs.com/bladegunner/
 post: https://medium.com/@herebefrogs/blade-gunner-js13kgames-2016-post-mortem-6786d2237733
 # See github.com/js13kGames/hello-world for supported frontmatter
